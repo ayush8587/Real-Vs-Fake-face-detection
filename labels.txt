@@ -1,2 +1,0 @@
-0 Real Face
-1 Fake Face
