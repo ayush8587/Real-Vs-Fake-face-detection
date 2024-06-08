@@ -12,9 +12,9 @@ With the proliferation of deepfake technology, the ability to detect real and fa
 ## Usage
 1. Clone the repository:
 
-``` git clone https://github.com/yourusername/real-fake-face-detection.git```
+``` git clone https://github.com/yourusername/Real-Vs-Fake-face-detection.git```
 
-```cd real-fake-face-detection ```
+```cd Real-Vs-Fake-face-detection ```
 
 2. Install dependencies (Keras , OpenCV & Python).
 
